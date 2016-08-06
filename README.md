@@ -7,3 +7,7 @@ Roguelike in ruby using ncurses
 - libncurses5-dev
 
 You may also need to `gem install ncursesw` if you don't have ncurses in ruby already
+
+# How to Play
+- Run `ruby game.rb`
+- Have fun
