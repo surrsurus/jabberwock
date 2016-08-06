@@ -1,0 +1,30 @@
+{
+
+    "jubjub": {
+        "name": "jubjub bird",
+        "id":"jubjub",
+        "char": "v",
+        "color": "RED",
+        "chance": [[50, 1], [0, 3], [50, 4], [0, 5], [50, 6]],
+        "ai": "dumbgrid"
+    },
+
+    "vorpal": {
+        "name": "posessed vorpal blade",
+        "id":"vorpal",
+        "char": "t",
+        "color": "PURPLE",
+        "chance": [[50, 3], [0, 5], [50, 6]],
+        "ai": "dumbdiag"
+    },
+
+    "gyre": {
+        "name": "gyre",
+        "id":"gyre",
+        "char": "g",
+        "color": "ORANGE",
+        "chance": [[50, 5]],
+        "ai": "dumbomni"
+    }
+
+}
