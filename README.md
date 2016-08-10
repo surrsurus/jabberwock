@@ -1,4 +1,4 @@
-# jaberwock
+# jabberwock
 Roguelike in ruby using ncurses
 
 # Requirements
@@ -6,7 +6,7 @@ Roguelike in ruby using ncurses
 - Linux
 - libncurses5-dev
 
-You may also need to `gem install ncursesw` if you don't have ncurses in ruby already
+Also make sure to run `bundle install` just to be safe, but you only need `ncursesw` to run the game
 
 # How to Play
 - Run `ruby game.rb`
