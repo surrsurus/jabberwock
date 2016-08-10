@@ -1,9 +1,9 @@
-require './lib/jaberwock/ai'
-require './lib/jaberwock/console'
-require './lib/jaberwock/entity'
-require './lib/jaberwock/json/handler'
-require './lib/jaberwock/pos'
-require './lib/jaberwock/tile'
+require './lib/jabberwock/ai'
+require './lib/jabberwock/console'
+require './lib/jabberwock/entity'
+require './lib/jabberwock/json/handler'
+require './lib/jabberwock/pos'
+require './lib/jabberwock/tile'
 
 # AI hash for monster creation from JSON
 AI = {}

@@ -4,7 +4,7 @@ require 'json'
 class JSONReader
     def initialize
         # Load monster data from file
-        @monster_data = File.read('./lib/jaberwock/json/monster.json')
+        @monster_data = File.read('./lib/jabberwock/json/monster.json')
     end
 
     # Return a hash of parsed data for monster.json

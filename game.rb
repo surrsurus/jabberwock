@@ -3,9 +3,9 @@
 
 # $: << File.join(File.dirname(__FILE__),"./lib/")
 
-require './lib/jaberwock'
+require './lib/jabberwock'
 
-j = Jaberwock.new
+j = Jabberwock.new
 j.interrupt_screen ['How To Play', '',
                         'Press ">" to go down stairs',
                         'Press "q" to quit at anytime',

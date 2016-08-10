@@ -1,6 +1,6 @@
-require './lib/jaberwock/console'
-require './lib/jaberwock/render'
-require './lib/jaberwock/world'
+require './lib/jabberwock/console'
+require './lib/jabberwock/render'
+require './lib/jabberwock/world'
 
 ## Size constants
 # Standard terminal size
@@ -34,7 +34,7 @@ ACT_MAP['QUIT'] = ['q']
 ACT_MAP['DEBUG REMAKE MAP'] = ['r']
 
 # Game engine
-class Jaberwock
+class Jabberwock
     def initialize
         # Rendering engine
         @ren = Render.new

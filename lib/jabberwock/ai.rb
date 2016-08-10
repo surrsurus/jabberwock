@@ -1,4 +1,4 @@
-require './lib/jaberwock/pos'
+require './lib/jabberwock/pos'
 
 # Basic AI that all AIs originate from
 class GenericAI
